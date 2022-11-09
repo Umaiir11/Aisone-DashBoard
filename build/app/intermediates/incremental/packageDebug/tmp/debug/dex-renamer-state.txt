@@ -1,0 +1,4 @@
+#Thu Nov 03 14:22:34 PKT 2022
+base.0=E\:\\AIsone DashBoard\\Aisone DashBoard\\Aisone DashBoard\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

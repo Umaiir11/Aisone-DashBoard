@@ -1,0 +1,4 @@
+#Wed Nov 02 17:05:20 PKT 2022
+base.0=E\:\\AIsone DashBoard\\Aisone DashBoard\\Aisone DashBoard\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
